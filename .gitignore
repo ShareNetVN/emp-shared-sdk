@@ -92,5 +92,4 @@ flutter/emp_sso_sdk/pubspec.lock
 .env.local
 *.pem
 *.key
-*.md
 /.vs
