@@ -1,0 +1,25 @@
+name: emp_sso_sdk
+description: EMP Shared SSO SDK for Flutter — Single Sign-On handoff cho các app con trong hệ sinh thái Enterprise Mobile Platform.
+version: 0.1.0
+homepage: https://github.com/ShareNetVN/emp-shared-sdk
+repository: https://github.com/ShareNetVN/emp-shared-sdk
+issue_tracker: https://github.com/ShareNetVN/emp-shared-sdk/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_secure_storage: ^9.2.2
+  http: ^1.2.2
+  meta: ^1.11.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  mocktail: ^1.0.4
+
+flutter:
